@@ -51,8 +51,8 @@ Exploratory Data Analysis (EDA)
 
 
 
-git clone https://github.com/ENKI0311/Crime_Data_from_2020_to_Present.git
-cd Crime_Data_from_2020_to_Present
+git clone 
+[cd Crime_Data_from_2020_to_Present](https://github.com/anto-rom/Analisis-de-victimas-de-delitos-en-Los-Angeles-2020-2022)
 Install dependencies:
 
 
