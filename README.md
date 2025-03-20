@@ -53,7 +53,8 @@ Exploratory Data Analysis (EDA)
 
 git clone 
 [cd Crime_Data_from_2020_to_Present](https://github.com/anto-rom/Analisis-de-victimas-de-delitos-en-Los-Angeles-2020-2022)
-https://drive.google.com/file/d/1UyBvMtePHfwUkU7qsnAtrp2_KG8FVDM-/view?usp=sharing 
+[https://drive.google.com/file/d/1UyBvMtePHfwUkU7qsnAtrp2_KG8FVDM-/view?usp=sharing ](https://drive.google.com/file/d/1UyBvMtePHfwUkU7qsnAtrp2_KG8FVDM-/view?usp=drive_link)
+https://www.dropbox.com/scl/fi/03yrz5e93m7l7xg4v5cbi/Delitos-en-los-Angeles-2020-2024.xlsb-3.zip?rlkey=phq9ocskdtzjjrnbcqba49762&st=pru61zcr&dl=0 
 Install dependencies:
 
 
